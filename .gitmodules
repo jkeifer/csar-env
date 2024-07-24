@@ -1,0 +1,24 @@
+[submodule "bagis-conf"]
+	path = bagis-conf
+	url = git@github.com:PSU-CSAR/bagis-conf.git
+	ignore = all
+	update = none
+    branch = main
+[submodule "bagis-pourpoints"]
+	path = bagis-pourpoints
+	url = git@github.com:PSU-CSAR/BAGIS-pourpoints.git
+	ignore = all
+	update = none
+    branch = main
+[submodule "snodas/django-snodas"]
+	path = snodas/django-snodas
+	url = git@github.com:PSU-CSAR/django-snodas.git
+	ignore = all
+	update = none
+    branch = master
+[submodule "snodas-ui"]
+	path = snodas-ui
+	url = git@github.com:PSU-CSAR/snodas-ui.git
+	ignore = all
+	update = none
+    branch = main
